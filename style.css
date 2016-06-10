@@ -1,0 +1,21 @@
+.footer {
+  padding: 20px 0;  /* This adds space at the top.  This is probably better than using margin-top, as I've been using. */
+}
+
+
+/* Sticky footer styles
+------------------------------------------
+ */
+
+.footer {
+  position : absolute;  /* This must be paired with "bottom : 0;" */
+  bottom: 0;
+
+  width: 100%;    /* Width takes up the 100% of the page width...whatever that may be */
+  height: 200px;
+}
+
+.footer {
+  color: #efefef;
+  background-color: #333;
+}
