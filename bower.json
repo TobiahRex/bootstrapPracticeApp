@@ -1,0 +1,17 @@
+{
+  "name": "BootstrapPractice",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "RexCorpDev <rexcorpfx@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/TobiahRex/bootstrapPracticeApp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
